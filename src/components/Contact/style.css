@@ -1,0 +1,29 @@
+#contact {
+  background-color: var(--dark);
+  padding-bottom: 2rem;
+}
+
+.contact_container{
+  width: 60%;
+  color: var(--light);
+}
+
+.contact_h1{ 
+  padding:3rem 0 2rem;
+  color: var(--light);
+  text-align: left;
+  text-transform: uppercase;
+  margin:0;
+}
+
+.contact_h2{
+  padding-bottom: 1.5rem; 
+  font-weight: 400;
+}
+
+.contact_text {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

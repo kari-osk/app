@@ -1,0 +1,52 @@
+#about {
+  background-color: var(--dark);
+  padding: 4rem 0 2rem; 
+ }
+
+.about_container {
+    width:60%; 
+}
+
+.about_circle {
+  width: 3rem;
+  height: 3rem;
+  position:absolute;
+  border-radius:100%;
+  background-color: var(--blue);
+  z-index:0;
+}
+
+.about_h1 {
+  position: relative;
+  color: var(--light);
+  align-self: center;
+  text-align: left;
+  text-transform: uppercase;
+  padding:0 0 1rem;
+  margin:0;
+  z-index:1;
+}
+
+.about_p {
+  position: relative;
+  color: var(--light);
+  padding-top: 2rem;
+}
+
+.about_col{
+  padding: 2rem 0 2rem 1.5rem ;
+}
+
+.about_icons {
+  width: 100%;
+  padding: 1.5rem 0;
+  text-align: center;
+  justify-content: space-evenly;
+  font-size: 2rem;
+  color: var(--light);
+  margin-right: 0;
+}
+
+.about_icons_li {
+  justify-content: space-evenly;
+}

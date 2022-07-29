@@ -1,0 +1,24 @@
+#footer {
+  background-color: var(--dark-blue);
+  margin:0;
+}
+.footer_row {
+  padding: 1.4rem;
+  text-align: center;
+}
+
+.footer_h6 {
+  text-align: center;
+  font-size: 0.65rem;
+  font-weight: 400;
+  color: var(--light);
+}
+
+.footer_icon {
+  text-align: center;
+  padding: 0.5rem;
+  color: var(--light);
+}
+.footer_icon:hover {
+  color: var(--blue);
+}

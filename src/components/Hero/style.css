@@ -1,0 +1,15 @@
+.hero_container {
+  min-height: 90vh;
+  background-color: #ccc;
+  background-image: url("https://img.freepik.com/free-vector/flat-abstract-wireframe-background_23-2149008684.jpg?w=740&t=st=1659031894~exp=1659032494~hmac=adac9923951d0cb3e1a09c35482b105a98ad1d0af2a115a3bb4b9c8b22b756eb");
+  background-size: cover;
+}
+
+.hero_h3 {
+  padding-top:15rem;
+  font-size: 1.5rem;
+}
+
+.hero_h1 {
+  font-size: 5rem;
+}

@@ -1,0 +1,30 @@
+.post_content {
+  background-color: var(--dark);
+  padding: 4rem 0 2rem;
+}
+
+.post_container {
+  width:60%; 
+}
+
+.post_h1 {
+  color: var(--light);
+  align-self: center;
+  text-align: left;
+  text-transform: uppercase;
+  padding:0 0 2rem;
+}
+
+.card_post_image {
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.card_post_text{
+  margin-top: 1rem;
+  color: var(--light);
+}
+
+.card_post_btn {
+  text-align: center;
+}
