@@ -10,7 +10,7 @@ function SingleCard(props) {
       <Card className='single_card_container' >
         <CardImg className='single_card_image' src={props.data.image} />
         <Card.Body className='overlay'>
-          <Card.Title className='single_card_title'>{props.data.title}</Card.Title>
+          <Card.Title >{props.data.title}</Card.Title>
           <Card.Text>{props.data.text}</Card.Text>
           <Row>
             <Col>

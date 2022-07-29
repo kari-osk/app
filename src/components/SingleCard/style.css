@@ -7,7 +7,7 @@
 }
 
 .single_card_image {
-  height: 10rem;
+  height: 12rem;
   display: block;
   object-fit: cover;
 }
@@ -26,9 +26,6 @@
   opacity: 0;
   transition: opacity 0.25s;
   color: #e2e2e2;
-}
-.single_card_title {
-  font-size: 1.2rem;
 }
 
 .overlay--blur {
